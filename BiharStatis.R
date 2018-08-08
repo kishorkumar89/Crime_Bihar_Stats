@@ -1,4 +1,4 @@
-setwd("E:/GIT_Hub/Bihar_crime_Statis/")
+setwd("E:/GIT_Hub/Crime_bihar_Stats/")
 
 year2001 <-c(3619,1293,2175,3036,9489,8520,1689,385,746,257,1296,22,18)
 
